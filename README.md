@@ -8,5 +8,6 @@
 
 ### Abstract
 
-<i>coming soon</i>
+<i>The role of microbes in insecticide resistance mechanisms is a budding question. Here, we describe six metagenome-assembled genomes (MAGs) associated with the glassy-winged sharpshooter, Homalodisca vitripennis. Three MAGs each were obtained from an imidacloprid-resistant and susceptible sharpshooter and represent obligate symbionts, Candidatus Sulcia muelleri and Ca. Baumannia cicadellinicola, and the factulative symbiont Wolbachia.
+</i>
 
